@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+    margin: 20px 0;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+    margin: 20px 0;
+}
+
+h3 {
+    font-size: 42px;
+    font-weight: normal;
+    margin: 20px 0;
+}
+
+.link {
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+    display: block;
+    margin: 15px 0;
+}
+
+.description {
+    color: gray;
+    font-size: 21px;
+    margin: 20px 0;
+}
+
+.phone-mockup {
+    margin: 40px auto;
+    max-width: 100%;
+}
+
+.phone-mockup video {
+    max-width: 375px;
+    width: 100%;
+    height: auto;
+}
+
+.camp-image {
+    margin: 40px auto;
+    max-width: 100%;
+}
+
+.camp-image img {
+    max-width: 700px;
+    width: 100%;
+    height: auto;
+}
+
+.phone-icon {
+    margin: 40px auto;
+}
+
+.phone-icon img {
+    width: 50px;
+    height: auto;
+}
+
+footer {
+    margin-top: 40px;
+}
+
+.copyright {
+    color: gray;
+    text-align: right;
+    margin-top: 20px;
+    font-size: 14px;
+}
